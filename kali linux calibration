@@ -1,0 +1,20 @@
+sudo apt update 
+sudo apt upgrade
+(Do these on your virtual machine)
+search Ahmyth click on the github from Morsmalleo 
+scroll down to contents click binary setup 
+in binary setup section click Linux to access the specific files for the os
+click kali linux and steps for installing the tool on our distribution
+scroll down and click on the releases section where we can see setup files for the tool
+select the appropriate tool , most are compatible with the ams_64.deb 
+download the file 
+As Ahmyth is not compatible with the built in kali java 21 (you can check your machine's java version by " java -version ")
+For java 11 and configuration as default sudo apt install openjdk-11-jdk
+sudo update-alternatives --config java (see all available java version on the system)
+select 1 
+then run java -version (it will show 11 as the version number) 
+cd Downloads (thats probably where the ahmyth is installed if not cd to the dir or location where the tool is downloaded)
+sudo apt intall ./paste file name
+
+run ahmyth my simply typing "ahmyth" (it should change color)
+

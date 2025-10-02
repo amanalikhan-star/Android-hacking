@@ -4,7 +4,7 @@ sudo apt upgrade
 search Ahmyth click on the github from Morsmalleo 
 scroll down to contents click binary setup 
 in binary setup section click Linux to access the specific files for the os
-click kali linux and steps for installing the tool on our distribution
+click kali linux and steps for installing the tool on our distribution(linux)
 scroll down and click on the releases section where we can see setup files for the tool
 select the appropriate tool , most are compatible with the ams_64.deb 
 download the file 

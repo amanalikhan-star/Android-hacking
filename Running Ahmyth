@@ -1,0 +1,12 @@
+Run ahmyth 
+First we have to build our malicious apk file.
+In the APK builder Tap in Ahmyth , in the server ip write your device ip (virtual machine ip , use ifconfig to find it).
+Once you check out the permissions you want to gain after connecting to the target device. 
+Click on build.
+The apk will be stoed in your device in the home directory in the ahmyth folder.
+Now in a new terminal , cd /AhMyth/Output.
+python3 -m http.server 80  (this command will start a local python server on which only local devices , meaning same network devices can connect).
+On the Ahmyth tab , on the victims tab , click on the listen tab.(Ahmyth automatically listens on port 80 , default port)
+NOTE!!! (Remember to put network setting to bridged while using this your ip would be like e.g 192.168.100.66 ) You can also take help from a yt video .
+If you are doing this on your personal device (mobile phone) , go to your browser and type "" your linux device ip and : port number the server was hosted on ""
+Do the same if you want to do it on genymotion but type the ip in your browser and download the file on your computer.

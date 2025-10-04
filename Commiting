@@ -1,0 +1,6 @@
+Open your genymotion , run the android 9 device (you may run into a problem like IP NOT ASSIGNED etc , FOR THAT)
+Disable the hyperV on your windows device as in windows 10 and 11 its commanly the problem, go to this link for that "https://support.genymotion.com/hc/en-us/articles/360005742597-The-VirtualBox-DHCP-server-has-not-assigned-an-IP-address-to-the-virtual-device"
+Drag and drop the malicious file in the virtual mobile phone window.
+Go to Ahmyth and click on open the lab , from there we can take photos from front and back cameras , record audio etc.
+You can test this on the multiple machines created in genymotion.
+As from assessment when we try to install the malicious file on android 14,15 it refuses to download it, showcasing advanced security features.
